@@ -46,7 +46,7 @@ const portfolioData = {
             techStack: ["Python", "PyTorch", "Flask", "React", "Grad-CAM"],
             links: {
                 github: "https://github.com/sarthakpapneja/Gastro-XAI",
-                external: "https://gastro-xai.vercel.app"
+                external: "#"
             }
         },
         {
