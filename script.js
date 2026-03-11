@@ -4,7 +4,7 @@ const portfolioData = {
         {
             company: "Velocis Systems Noida",
             role: "Cloud Intern",
-            period: "May 2025 – July 2025",
+            period: "June 2025 – July 2025",
             description: [
                 "Worked with AWS and Google Cloud (EC2, IAM, VPC, RDS, CloudFront, Load Balancer).",
                 "Supported enterprise grade solutions, collaborating in fast-paced project environments."
