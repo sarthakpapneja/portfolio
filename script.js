@@ -151,7 +151,8 @@ const portfolioData = {
         "AI/ML": ["PyTorch", "Deep Learning", "Computer Vision", "NLP", "Grad-CAM", "XAI"],
         "Data Tools": ["SQL", "PowerBI", "Excel", "Tableau", "MySQL", "MongoDB"],
         "Cloud": ["AWS (EC2, IAM, VPC, S3, RDS, CloudFront)"],
-        "Hardware": ["Raspberry Pi", "Arduino"]
+        "Hardware": ["Raspberry Pi", "Arduino"],
+        "AI/ML": ["Computer Vision", "NLP", "Explainable AI (XAI)", "Deep Learning", "PyTorch", "Streamlit"]
     }
 };
 
