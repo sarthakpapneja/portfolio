@@ -107,7 +107,7 @@ const portfolioData = {
             techStack: ["JavaScript", "React", "Vite", "CSS"],
             links: {
                 github: "https://github.com/sarthakpapneja/school-website-",
-                external: "#"
+                external: "https://school-website-murex-seven.vercel.app/"
             }
         },
         {
