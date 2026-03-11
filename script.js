@@ -127,7 +127,7 @@ const portfolioData = {
             techStack: ["Deep Learning", "Python", "OCR", "VGG-19"],
             links: {
                 github: "#",
-                external: "#"
+                external: "https://colab.research.google.com/drive/1xpn7qXNKuUoMzCklZjbyLiv23v8SheIN?usp=sharing"
             }
         }
     ],
