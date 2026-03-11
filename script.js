@@ -116,7 +116,7 @@ const portfolioData = {
             description: "A comprehensive bank management application ensuring data segregation and integrity with Role-Based Access Control (RBAC).",
             techStack: ["Python", "MySQL", "RBAC"],
             links: {
-                github: "#",
+                github: "https://github.com/sarthakpapneja/banksecuritysystem",
                 external: "#"
             }
         },
